@@ -1,0 +1,7 @@
+{
+  "name": "VitaTrack: Saúde & Equilíbrio",
+  "description": "App intuitivo para monitoramento de saúde, IMC, evolução de peso e cardápios gerados por IA.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
